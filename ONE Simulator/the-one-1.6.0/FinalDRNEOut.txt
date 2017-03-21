@@ -1,0 +1,22 @@
+
+C:\Users\Yatu\Documents\UCL\3rd Year\Project\ONE 1.6\the-one-1.6.0>java -Xmx512M -cp .;lib/ECLA.jar;lib/DTNConsoleConnection.jar core.DTNSim -b 
+Run 1/1
+Running simulation 'DDRouter_NoEnergy_Scenario'
+60.0 11646: 194.09 1/s
+120.0 17043: 89.94 1/s
+180.0 22274: 87.17 1/s
+240.0 27450: 86.25 1/s
+300.0 32436: 83.09 1/s
+360.1 37635: 86.64 1/s
+420.1 43067: 90.53 1/s
+480.1 48901: 97.23 1/s
+540.1 54818: 98.62 1/s
+600.1 61022: 103.39 1/s
+660.1 66928: 98.43 1/s
+720.1 72016: 84.78 1/s
+780.1 76991: 82.90 1/s
+840.1 82123: 85.52 1/s
+887.2 86400: 90.77 1/s
+Simulation done in 886.60s
+---
+All done in 889.37s

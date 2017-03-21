@@ -1,0 +1,12 @@
+
+C:\Users\Yatu\Documents\UCL\3rd Year\Project\ONE 1.6\the-one-1.6.0>java -Xmx512M -cp .;lib/ECLA.jar;lib/DTNConsoleConnection.jar core.DTNSim -b 
+Run 1/1
+Running simulation 'EpidRouter_Scenario'
+60.0 4812: 80.17 1/s
+120.0 9923: 85.17 1/s
+180.0 15147: 87.06 1/s
+240.0 25429: 171.36 1/s
+274.5 86400: 1768.86 1/s
+Simulation done in 273.85s
+---
+All done in 276.72s

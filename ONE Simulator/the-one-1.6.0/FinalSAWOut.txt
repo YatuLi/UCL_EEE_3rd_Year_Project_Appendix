@@ -1,0 +1,24 @@
+
+C:\Users\Yatu\Documents\UCL\3rd Year\Project\ONE 1.6\the-one-1.6.0>java -Xmx512M -cp .;lib/ECLA.jar;lib/DTNConsoleConnection.jar core.DTNSim -b 
+Run 1/1
+Running simulation 'SAWRouter_Scenario'
+60.0 5219: 86.98 1/s
+120.0 8648: 57.14 1/s
+180.0 11829: 53.00 1/s
+240.0 14992: 52.71 1/s
+300.0 18033: 50.67 1/s
+360.1 20962: 48.79 1/s
+420.1 24044: 51.35 1/s
+480.1 27105: 51.00 1/s
+540.1 30176: 51.17 1/s
+600.1 33260: 51.40 1/s
+660.1 36327: 51.11 1/s
+720.1 39100: 46.21 1/s
+780.1 41725: 43.74 1/s
+840.2 45328: 60.04 1/s
+900.2 49111: 63.04 1/s
+960.2 52814: 61.71 1/s
+987.7 86400: 1221.49 1/s
+Simulation done in 987.07s
+---
+All done in 989.86s

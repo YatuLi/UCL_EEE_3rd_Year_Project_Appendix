@@ -1,0 +1,22 @@
+Message stats for scenario EASAWRouter_First_Around
+sim_time: 10000.0000
+created: 339
+started: 1611
+relayed: 1570
+aborted: 41
+dropped: 817
+removed: 0
+delivered: 55
+delivery_prob: 0.1622
+response_prob: 0.0000
+overhead_ratio: 27.5455
+latency_avg: 2056.5455
+latency_med: 1383.0000
+hopcount_avg: 2.5273
+hopcount_med: 2
+buffertime_avg: 3313.2093
+buffertime_med: 2986.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+scanInterval: 
