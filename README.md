@@ -7,7 +7,7 @@ The Appendix consists of three parts:
 
 =======================  
 
-1. The ONE Simulator Source Codes Based on the original source code of the ONE, I created three new classes in the routing package. These are  
+1. The ONE Simulator Source Codes are Based on the original source code of the ONE. Then, I created three new classes in the routing package. These are  
 • EnergyAwareDDRouter.java  
 • EnergyAwareEpidRouter.java  
 • EnergyAwareSAWRouter.java  
